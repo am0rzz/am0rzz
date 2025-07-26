@@ -61,7 +61,7 @@
 
 <p align="left">
   <a href="mailto:amrmohm629@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/amr-mohamed-34835032b/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/amorzz/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
