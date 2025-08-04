@@ -27,6 +27,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Pygame-4B8BBE?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
@@ -51,6 +52,7 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
+| [![Snake Game Badge](https://img.shields.io/badge/Snake%20Game-%20🐍-brightgreen?style=for-the-badge&logo=python&logoColor=white)](https://github.com/am0rzz/snakegame) | A classic Snake Game built with Python and Pygame. | Python, Pygame |
 | N/A
 
 
