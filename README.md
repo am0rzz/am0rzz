@@ -52,9 +52,8 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
+| [![PyTask Badge](https://img.shields.io/badge/PyTask-%20📝-brightgreen?style=for-the-badge&logo=python&logoColor=white)](https://github.com/am0rzz/PyTask) | A simple desktop To-Do List app built with Python and tkinter for efficient task management. | Python, tkinter |
 | [![Snake Game Badge](https://img.shields.io/badge/Snake%20Game-%20🐍-brightgreen?style=for-the-badge&logo=python&logoColor=white)](https://github.com/am0rzz/snakegame) | A classic Snake Game built with Python and Pygame. | Python, Pygame |
-| N/A
-
 
 ---
 
@@ -70,7 +69,7 @@
 
 <!-- Footer -->
 <p align="center">
-  <i>"Code is my canvas. APIs are my art."</i> 🎨
+  <i>"Code is my canvas."</i> 🎨
 </p>
 <p align="center">
   © 2025 Amr Mohamed
